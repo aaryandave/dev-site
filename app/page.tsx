@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 import Particles from "./components/particles";
-import { Bold, Italic } from "lucide-react";
+import { Bold, Italic, Underline } from "lucide-react";
 
 const navigation = [
   { name: "Projects", href: "/projects" },
@@ -36,7 +36,7 @@ export default function Home() {
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-16 text-center animate-fade-in">
         <h2 className="text-sm text-zinc-500 ">
-          I'm building <Italic>Wave</Italic> to redefine how you can interact with a computer.
+          I'm building <Underline>Wave</Underline> to redefine how you can interact with a computer.
         </h2>
       </div>
     </div>
