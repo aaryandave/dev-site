@@ -5,15 +5,16 @@ import { Metadata } from "next";
 import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://aaryandave.dev"),
   title: {
     default: "aaryandave.dev",
     template: "%s | aaryandave.dev",
   },
-  description: "CS @ Purdue, SWE @ Marriott",
+  description: "Dev site for Aaryan Dave",
   openGraph: {
     title: "aaryandave.dev",
     description:
-      "CS @ Purdue, SWE @ Marriott",
+      "Dev site for Aaryan Dave",
     url: "https://aaryandave.dev",
     siteName: "aaryandave.dev",
     images: [
@@ -36,10 +37,6 @@ export const metadata: Metadata = {
       "max-image-preview": "large",
       "max-snippet": -1,
     },
-  },
-  twitter: {
-    title: "Chronark",
-    card: "summary_large_image",
   },
   icons: {
     shortcut: "/favicon.png",
