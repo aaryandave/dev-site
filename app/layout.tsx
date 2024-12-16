@@ -37,8 +37,8 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
-  linkedin: {
-    title: "@aaryandave",
+  twitter: {
+    title: "Chronark",
     card: "summary_large_image",
   },
   icons: {
