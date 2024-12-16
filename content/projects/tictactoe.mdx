@@ -1,19 +1,31 @@
 ---
 title: tictactoe
 description: Classic Tic-Tac-Toe game implementation.
-date: "2024-12-16"
+date: "2024-04-06"
 published: true
 repository: "aaryandave/tictactoe"
 ---
 
-![tictactoe](https://via.placeholder.com/150)
+# Tic-Tac-Toe AI  
 
-An implementation of the classic Tic-Tac-Toe game, allowing two players to compete in a simple yet engaging environment.
+This project explores different AI strategies for playing Tic-Tac-Toe, demonstrating how various algorithms tackle decision-making in a simple yet strategic game. It’s a fun and educational way to see how AI "thinks" when trying to win or force a draw.
 
-###### Features
+---
 
-- **Two-Player Mode**: Supports gameplay between two human players.
-- **User-Friendly Interface**: Easy-to-use interface for seamless interaction.
-- **Win Detection**: Automatically detects and announces the winner or a draw.
+## 🤖 **AI Types & Strategies**  
 
-*Note: Please replace `[Live Site URL]` with the actual URL if a live version exists.*
+1. **Random AI:**  
+   - **Strategy:** Makes completely random moves.  
+   - **Outcome:** Plays unpredictably but lacks any real strategy—fun for testing!  
+
+2. **Rule-Based AI:**  
+   - **Strategy:** Follows a basic set of if-else rules (e.g., "Take the center if available").  
+   - **Outcome:** Decent against casual players but easily outsmarted by experienced opponents.  
+
+3. **Minimax AI:**  
+   - **Strategy:** Uses the minimax algorithm to simulate all possible moves and counter-moves. Always aims to maximize its chances of winning or forcing a draw.  
+   - **Outcome:** Nearly unbeatable—will never lose if it goes first and can force a draw if it goes second.
+
+4. **Alpha-Beta Pruning AI:**  
+   - **Strategy:** An optimized version of Minimax that skips irrelevant branches to reduce computation time.  
+   - **Outcome:** Same as Minimax but much faster, making it efficient for larger game trees.  
