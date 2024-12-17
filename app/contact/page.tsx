@@ -6,16 +6,16 @@ import { Card } from "../components/card";
 
 const socials = [
 	{
-		icon: <Linkedin size={20} />,
-		href: "https://www.linkedin.com/in/aaryandave/",
-		label: "Linkedin",
-		handle: "aaryandave",
-	},
-	{
 		icon: <Mail size={20} />,
 		href: "mailto:aaryan.r.dave@gmail.com",
 		label: "Email",
 		handle: "aaryan.r.dave@gmail.com",
+	},
+	{
+		icon: <Linkedin size={20} />,
+		href: "https://www.linkedin.com/in/aaryandave/",
+		label: "Linkedin",
+		handle: "aaryandave",
 	},
 	{
 		icon: <Github size={20} />,
