@@ -1,0 +1,128 @@
+Aaryan’s projects are a testament to his technical skills and problem-solving abilities. These include:
+
+
+Aaryan's Dev Site, You're looking at it. A digitized version of my professional career. Everything I've accomplished in a few UI components. Features: Project Showcase: Year's of my life in one page., Contact: Get in touch with me.
+---
+
+Virtual AI Scientist
+Research project on multimodal retrieval-augmented generation for document visual question-answering.
+
+Work from eLab @ Purdue University.
+
+This repository contains research work focused on multimodal retrieval-augmented generation (RAG). The project explores integrating multiple data modalities to enhance the performance of generative models on scientific papers.
+
+Features
+Multimodal Embedding Integration: Combines data from various modalities for improved context.
+Retrieval-Augmented Generation: Enhances generative models with retrieved information.
+
+Virtual AI Scientist is a collaborative effort with eLab researchers to advance the capabilities of AI in document understanding. The project aims to develop a system that can answer questions about scientific papers using both text and visual information.
+---
+Buoy.:
+
+Navigating the complexities of autonomous maritime systems requires precise and reliable object detection capabilities. In our project for Machine Learning 2 at Thomas Jefferson High School for Science and Technology (TJHSST), we developed an advanced buoy detection algorithm designed to enhance the safety and efficiency of autonomous watercraft operations.
+
+### Project Overview
+
+Our project focuses on creating a robust machine learning model capable of accurately identifying buoys in various aquatic environments. By leveraging state-of-the-art computer vision techniques, we trained our model to detect buoys under diverse conditions, including varying light, weather, and water surface states.
+
+### Key Features
+
+- **Dataset Compilation**: We curated a comprehensive dataset comprising images of buoys captured in different scenarios to ensure the model's adaptability and resilience.
+
+- **Model Architecture**: Utilizing convolutional neural networks (CNNs), our algorithm processes visual data to detect and classify buoys with high precision.
+
+- **Performance Optimization**: Through iterative training and hyperparameter tuning, we achieved a balance between detection accuracy and computational efficiency, making the algorithm suitable for real-time applications.
+
+### Applications
+
+The successful implementation of this buoy detection algorithm holds significant potential for various applications, including:
+
+- **Autonomous Navigation**: Enhancing the navigational capabilities of unmanned surface vehicles (USVs) by providing real-time buoy detection to avoid collisions and adhere to maritime navigation rules.
+
+- **Maritime Safety**: Assisting in monitoring and maintaining safe waterways by detecting navigational aids and potential hazards.
+
+- **Environmental Monitoring**: Facilitating the study of marine environments by accurately identifying and tracking buoys used in scientific research.
+---
+AI Game Bots
+I love playing online word games—Wordle, Spelling Bee, you name it. But let’s be real: I **sucked**. No matter how many fancy words I knew (thanks, Google), I couldn’t keep up. My solution? Python.
+
+A weekend and many cups of coffee later, I had bots that could annihilate any word game the New York Times could throw at me. Now, I win... _wayyy_ too much.
+
+The result? No more friends to play with. Something about “you're such a nerd” and “stop being a *****.” Whatever, it's called __strategic automation__.
+---
+## LTC Stocks - Time Series Prediction with Liquid Neural Networks  
+
+![Stock Prediction Results](https://github.com/aaryandave/ltc_stocks/blob/master/results/after_training.png)
+
+**Motivation:**  
+Exploring the potential of liquid neural networks for time series prediction, specifically in forecasting stock prices. Liquid neural networks adapt their internal structure dynamically, making them well-suited for complex data like financial markets.  
+
+**Work:**  
+- Implemented a stock price prediction model using liquid neural networks.  
+- Collected and processed historical stock price data for training.  
+- Evaluated model performance against traditional architectures like LSTMs and GRUs.  
+- Conducted experiments to test adaptability and prediction accuracy over volatile market periods.  
+
+**Why It Matters:**  
+Stock price prediction is a challenging time series problem due to market volatility. Liquid neural networks offer a promising approach by dynamically adjusting to new data, potentially outperforming static models in uncertain environments.  
+---
+## Notion CLI Summary - Automating Productivity with AI  
+
+**The Problem:**  
+Managing tasks, deadlines, and goals can quickly become overwhelming. Traditional productivity tools felt rigid and manual, often adding more friction than they removed. I wanted something smarter—something that could adapt, learn, and reduce the cognitive load of staying organized.  
+
+**The Solution:**  
+I built a CLI tool that integrates with Notion, automating task management and enhancing productivity using AI-powered features:  
+- **Smart Task Summarization:** Automatically generates concise summaries of your day using large language models (LLMs).  
+- **Context-Aware Search:** Search notes and tasks in natural language for faster retrieval.  
+- **Workflow Automation:** Automates recurring tasks and updates, reducing repetitive manual work.  
+
+**Why It’s Cool:**  
+This tool transforms Notion into an AI-enhanced productivity powerhouse. It’s built for anyone tired of traditional task managers and ready to level up their workflow with automation and intelligent organization.  
+---
+# SSBU ELO Tracker
+
+## The Backstory:  
+In my friend group, Smash Bros Ultimate isn’t just a game—it determines your respect in the friend group. Everyone’s convinced they’re the best, and every game night turns into an ego-fueled rage fest. And everyone's always got excuses on their off days. "I was distracted," "I was trying a new character," "I was just warming up," "Stick drift!" It's all __bullshit__.
+
+**Solution?** Track every match, every win, every salty "run it back". No more “I’m definitely better, remember that one time?” excuses. Just **cold, hard stats**.
+
+---
+
+### What It Do?:  
+📊 **Live Leaderboard**: Automatically updates after every match to show the current rankings. No disputes, no debates.  
+
+🏆 **Win Streak Tracker**: Keeps tabs on who’s cooking (and who’s getting cooked).  
+
+🔄 **Match History Logs**: Every win, loss, and “one more game”.  
+
+🎮 **Player Profiles**: Personal records, streaks, and embarassing 3-Stocks forever immortalized.
+
+---
+
+### Why It’s Essential:  
+- Tired of hearing your friends’ inflated win stories? Let the tracker shut them up.  
+- Finally know who deserves bragging rights (or needs to get in the lab).  
+- Adds instant stakes to every game night, since rankings are always on the line.  
+---
+# Tic-Tac-Toe AI  
+
+This project explores different AI strategies for playing Tic-Tac-Toe, demonstrating how various algorithms tackle decision-making in a simple yet strategic game. It’s a fun and educational way to see how AI "thinks" when trying to win or force a draw.
+
+## 🤖 **AI Types & Strategies**  
+
+1. **Random AI:**  
+   - **Strategy:** Makes completely random moves.  
+   - **Outcome:** Plays unpredictably but lacks any real strategy—fun for testing!  
+
+2. **Rule-Based AI:**  
+   - **Strategy:** Follows a basic set of if-else rules (e.g., "Take the center if available").  
+   - **Outcome:** Decent against casual players but easily outsmarted by experienced opponents.  
+
+3. **Minimax AI:**  
+   - **Strategy:** Uses the minimax algorithm to simulate all possible moves and counter-moves. Always aims to maximize its chances of winning or forcing a draw.  
+   - **Outcome:** Nearly unbeatable—will never lose if it goes first and can force a draw if it goes second.
+
+4. **Alpha-Beta Pruning AI:**  
+   - **Strategy:** An optimized version of Minimax that skips irrelevant branches to reduce computation time.  
+   - **Outcome:** Same as Minimax but much faster, making it efficient for larger game trees.  

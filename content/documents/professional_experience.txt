@@ -1,0 +1,23 @@
+Marriott International June 2024 – Present
+Software Engineering Intern Bethesda, MD
+• Accelerated production deployment times by 40% through the development and deployment of Python-based application
+templates, expediting time-to-market for new products.
+• Engineered modular libraries for PostgreSQL, OpenTelemetry, REST APIs, and Kafka, facilitating seamless integration across
+5+ development teams.
+Purdue University E-Lab Undergraduate Research Assistant August 2023 – Present
+West Lafayette, IN
+• Pioneered a multi-modal large language model (LLM) to create a chat-based virtual research scientist, enhancing
+accessibility to scientific data.
+• Enhanced document-based visual question answering (VQA) techniques, improving information extraction accuracy from
+scientific papers by 25%.
+• Optimized the Retrieval Augmented Generation (RAG) pipeline by incorporating data locality and context, resulting in a
+30% increase in relevant text generation.
+Johns Hopkins University Applied Physics Lab August 2023 – February 2024
+Software Engineer Remote
+• Automated web scraping for news article databases, increasing real-time data collection efficiency by 185%.
+• Applied Named Entity Recognition (NER) to identify key entities and relationships, enhancing article categorization
+precision by 35%.
+• Developed and optimized a large-scale knowledge graph using advanced LLMs, improving data integration and query
+performance by over 50%.
+• Collaborated directly with clients, providing progress updates and implementing feedback, ensuring project alignment with
+client needs.

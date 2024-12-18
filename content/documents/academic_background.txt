@@ -1,0 +1,48 @@
+Academic Background
+
+Aaryan is a third-year computer science student at Purdue University, set to graduate in Spring 2025. His academic journey is marked by a strong dedication to learning and mastery of technical concepts. At Purdue, Aaryan has excelled in challenging coursework such as:
+
+Artificial Intelligence and Machine Learning: Gaining expertise in cutting-edge algorithms, neural networks, and practical AI applications.
+
+Software Engineering: Developing robust software solutions through principles of clean code, agile methodologies, and scalable design.
+
+Data Structures and Algorithms: Building a foundation for efficient and optimized programming.
+
+Beyond his formal education, Aaryan’s passion for AI was sparked by his discovery of ChatGPT in December 2022. This experience inspired him to explore generative AI research and its potential to revolutionize workflows. He actively participates in tech communities and stays updated on the latest advancements, proving his commitment to continuous learning.
+
+Prior to Purdue, Aaryan an advanced diploma at Thomas Jefferson High School for Science and Technology (the number one public high school in the United States at the time), where he honed his analytical and problem-solving skills. His academic achievements and extracurricular involvement demonstrate a well-rounded approach to education, blending theoretical knowledge with practical applications. In his senior research project, Aaryan worked with a team to develop an autonomous boat from scratch. He was involved in all aspects of the boats engineering. He worked on designing the mechanical components of the boat, wiring the electfical components, and desiging the computer vision algorithms for object detection and navigation. This project was a testament to his ability to collaborate effectively, innovate under pressure, and deliver results in a fast-paced environment.
+
+Education
+Purdue University Bachelor of Science in Computer Science (Machine Intelligence), GPA: 3.9
+Aug. 2022 – May. 2025
+West Lafayette, IN
+Relevant Coursework:
+• Introduction To Artificial
+Intelligence (Python)
+• Web Info Search And
+Management (Python)
+Experience
+• Analysis Of Algorithms
+• Probability
+• Data Structures and
+Algorithms (C++)
+• Computer Architecture
+(Assembly, C)
+• Programming in C (C)
+• Discrete Mathematics
+• OOP (Java)
+• Linear Algebra
+• Calculus 3
+
+Thomas Jefferson High School for Science and Technology Advanced Studies Diploma, GPA: 4.4
+Aug. 2018 – Jun. 2022
+Alexandria, VA
+Relevant Coursework:
+• Automation Robotics
+Research
+• Calculus 3
+• AP Computer Science
+• AP Physics C
+• Artificial Intelligence 1 and 2
+• Machine Learning 1 and 2
+• Linear Algebra
