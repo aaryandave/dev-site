@@ -48,7 +48,6 @@ const upsertEmbedding = async (id: string, vector: number[], metadata: object) =
     {
       id,
       values: vector,
-      metadata,
     },
   ]);
 };
