@@ -42,12 +42,17 @@ const generateEmbedding = async (text: string) => {
 };
 
 // Function to upsert embeddings into Pinecone
-const upsertEmbedding = async (id: string, vector: number[], metadata: object) => {
+interface RecordMetadata {
+  [key: string]: any;
+}
+
+const upsertEmbedding = async (id: string, vector: number[], metadata: RecordMetadata) => {
   const index = pinecone.Index('dev-site-rag');
   await index.upsert([
     {
       id,
       values: vector,
+      metadata,
     },
   ]);
 };
