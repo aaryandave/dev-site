@@ -96,14 +96,14 @@ export default function Home() {
         <div className="flex mt-4">
           <input
             type="text"
-            className="flex-1 p-2 rounded-l-2xl border border-zinc-700 bg-transparent text-zinc-300 focus:outline-none"
+            className="flex-1 p-2 rounded-l-2xl border border-zinc-700 bg-transparent text-zinc-500 focus:outline-none"
             placeholder="Ask me anything about Aaryan!"
             value={input}
             onChange={(e) => setInput(e.target.value)}
             onKeyDown={(e) => e.key === "Enter" && sendMessage()}
           />
           <button
-            className="p-2 border border-zinc-700 bg-transparent text-zinc-300 hover:text-white hover:bg-zinc-800 rounded-r-2xl"
+            className="p-2 border border-zinc-700 bg-transparent text-zinc-500 hover:text-white hover:bg-zinc-800 rounded-r-2xl"
             onClick={sendMessage}
           >
             Send
