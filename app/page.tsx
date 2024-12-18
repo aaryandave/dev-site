@@ -90,7 +90,7 @@ export default function Home() {
               </p>
             </div>
           ))}
-          {loading && <p className="text-sm text-zinc-500">Thinking... because he's just so interesting...</p>}
+          {loading && <p className="text-sm text-zinc-500 animate-pulse">Thinking... because he's just so interesting...</p>}
         </div>
         )}
         <div className="flex mt-4">
