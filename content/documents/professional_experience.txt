@@ -1,23 +1,37 @@
-Marriott International June 2024 – Present
-Software Engineering Intern Bethesda, MD
-• Accelerated production deployment times by 40% through the development and deployment of Python-based application
-templates, expediting time-to-market for new products.
-• Engineered modular libraries for PostgreSQL, OpenTelemetry, REST APIs, and Kafka, facilitating seamless integration across
-5+ development teams.
-Purdue University E-Lab Undergraduate Research Assistant August 2023 – Present
-West Lafayette, IN
-• Pioneered a multi-modal large language model (LLM) to create a chat-based virtual research scientist, enhancing
-accessibility to scientific data.
-• Enhanced document-based visual question answering (VQA) techniques, improving information extraction accuracy from
-scientific papers by 25%.
-• Optimized the Retrieval Augmented Generation (RAG) pipeline by incorporating data locality and context, resulting in a
-30% increase in relevant text generation.
-Johns Hopkins University Applied Physics Lab August 2023 – February 2024
-Software Engineer Remote
-• Automated web scraping for news article databases, increasing real-time data collection efficiency by 185%.
-• Applied Named Entity Recognition (NER) to identify key entities and relationships, enhancing article categorization
-precision by 35%.
-• Developed and optimized a large-scale knowledge graph using advanced LLMs, improving data integration and query
-performance by over 50%.
-• Collaborated directly with clients, providing progress updates and implementing feedback, ensuring project alignment with
-client needs.
+## Professional Position: Software Engineering Intern at Marriott International (June 2024 – Present)
+At Marriott International, Aaryan has played a pivotal role in driving innovation and improving operational efficiency across development teams, leveraging his technical expertise to create scalable and impactful solutions.
+### Key Contributions (Professional Projects)
+- **Accelerated Deployment Efficiency**: Developed and deployed Python-based application templates that reduced production deployment times by 40%, significantly expediting time-to-market for new products.
+- **Engineered Modular Libraries**: Designed and implemented reusable libraries for PostgreSQL, OpenTelemetry, REST APIs, and Kafka, enabling seamless integration across more than five development teams. These libraries facilitated standardization, reduced redundancy, and improved overall development speed and code quality.
+- **Impact on Operational Excellence**: Contributed to the creation of tools and practices that enhanced cross-team collaboration, ensuring alignment with organizational goals and technological standards.
+### Broader Impact
+Aaryan’s work has directly contributed to Marriott’s ability to rapidly innovate and deploy new digital solutions, solidifying its competitive edge in the hospitality industry.
+
+## Professional Position: Undergraduate Research Assistant at Purdue University (August 2023 – Present)
+Aaryan has been at the forefront of advancing AI technologies to enhance accessibility and precision in scientific research. His role involves pioneering techniques that bridge theoretical innovation with practical applications.
+### Research Contributions (Professional Projects)
+- **Multi-Modal Large Language Model (LLM)**: Designed and implemented an advanced LLM to create a chat-based virtual research scientist, significantly enhancing accessibility to scientific data and making it more user-friendly for researchers across disciplines.
+- **Enhanced Visual Question Answering (VQA)**: Improved document-based VQA techniques, increasing information extraction accuracy from scientific papers by 25%. This innovation streamlines the research process, enabling faster and more precise data interpretation.
+- **Optimized RAG Pipeline**: Incorporated data locality and context into the Retrieval Augmented Generation pipeline, resulting in a 30% improvement in generating relevant text. This advancement ensures more accurate and contextually appropriate outputs from AI models.
+### Research Impact
+Aaryan’s contributions have pushed the boundaries of AI in scientific research, making complex data more accessible and actionable for researchers worldwide.
+
+## Professional Position: Software Engineer at Johns Hopkins University Applied Physics Lab (August 2023 – February 2024)
+During his tenure at JHU/APL, Aaryan showcased his ability to bridge cutting-edge AI solutions with practical applications, addressing real-world challenges in data analysis and system optimization.
+### Major Achievements (Professional Projects)
+- **Automated Web Scraping**: Developed automated web scraping tools for news article databases, increasing real-time data collection efficiency by 185%. These tools streamlined data ingestion and reduced manual effort.
+- **Named Entity Recognition (NER)**: Applied advanced NER techniques to identify key entities and relationships, enhancing the precision of article categorization by 35%.
+- **Knowledge Graph Development**: Designed and optimized a large-scale knowledge graph using state-of-the-art LLMs, improving data integration and query performance by over 50%. This graph provided a robust framework for connecting and analyzing large datasets.
+- **Client Collaboration**: Maintained direct communication with clients to provide regular progress updates and incorporate feedback, ensuring that project deliverables aligned with client requirements and expectations.
+### Practical Applications
+Aaryan’s work at JHU/APL not only advanced AI-driven solutions but also emphasized the importance of client-centric development, resulting in tools that were both innovative and directly applicable to user needs.
+
+## Professional Position: Software Engineering Intern at Johns Hopkins University Applied Physics Lab (June 2023 – August 2023)
+During this internship, Aaryan demonstrated his expertise in machine learning, real-time systems, and scalable data solutions, contributing to cutting-edge projects in data analysis and AI.
+### Key Contributions (Professional Projects)
+- **Object Detection and Classification**: Designed and implemented an object detection and classification system using Facebook’s SAM model, creating efficient pipelines for real-time image processing and classification.
+- **Reddit Data Query Tool**: Developed a real-time Reddit data query tool for supply chain risk monitoring, enabling rapid identification and response to potential disruptions in supply chains.
+- **Data Classification and Summarization**: Built an LLM-based system for data classification and summarization, improving processing accuracy by 20%. This system streamlined the analysis of unstructured data.
+- **Expanded Data Sources**: Broadened the scope of data processing tools to include various social media platforms, enabling more comprehensive and diverse data analysis.
+### Impact
+Aaryan’s contributions during this internship demonstrated his ability to integrate advanced AI models into real-world applications, resulting in tools that enhanced operational efficiency and data-driven decision-making.

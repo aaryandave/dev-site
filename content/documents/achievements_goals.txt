@@ -1,13 +1,31 @@
-Achievements:
+## Achievements
 
-Multiple software engineering internships, with a focus on AI/ML product development and backend engineering.
+### Software Engineering Internships
+Completed multiple software engineering internships, specializing in AI/ML product development and backend engineering. These roles involved hands-on experience with the latest technologies, frameworks, and methodologies to build scalable and efficient systems. 
+- **AI/ML Product Development**: Focused on designing and implementing machine learning models and algorithms to solve real-world problems. Collaborated with cross-functional teams to integrate AI capabilities into user-facing applications.
+- **Backend Engineering**: Contributed to the development of robust backend systems, ensuring high performance, security, and scalability. Worked with cloud platforms, databases, and APIs to create seamless data pipelines and microservices architecture.
 
-Conducted impactful generative AI research, focusing on accessibility and real-world applications.
+### Generative AI Research
+Conducted impactful research in the field of generative AI, emphasizing accessibility and practical applications:
+- **Focus on Accessibility**: Explored how generative AI models can bridge the gap for users with diverse needs, including those with disabilities or limited technical expertise. Developed prototypes and conducted user studies to evaluate usability and impact.
+- **Real-World Applications**: Created solutions tailored to industries such as education, healthcare, and content creation. These innovations were designed to enhance productivity, simplify workflows, and provide value to both technical and non-technical users.
+- **Research Contributions**: Published findings in internal or academic platforms, contributing to the broader understanding of generative AI's potential in accessible and impactful technology design.
 
-Maintained a stellar academic record while actively pursuing cutting-edge technologies.
+### Academic Excellence
+Maintained a stellar academic record while actively pursuing cutting-edge technologies and engaging in practical projects:
+- **Exploration of Emerging Fields**: Consistently stayed ahead of trends by experimenting with technologies such as liquid neural networks, retrieval-augmented generation (RAG), and multimodal AI.
+- **Hands-On Learning**: Balanced rigorous coursework with self-initiated projects and research, demonstrating a commitment to continuous growth and innovation.
+- **Leadership and Collaboration**: Actively participated in academic communities, contributing to discussions, hackathons, and collaborative research projects.
 
-Goals:
+## Goals
 
-Secure a full-time role focused on AI/ML product integration.
+### Secure a Full-Time Role in AI/ML Product Integration
+Aspire to join a forward-thinking organization focused on integrating AI/ML into impactful products and services:
+- **AI/ML Product Integration**: Aim to work on end-to-end development of AI-powered applications, combining technical skills with user-centric design to create seamless and effective solutions.
+- **Collaboration with Visionaries**: Seek opportunities to collaborate with innovative teams and thought leaders, pushing the boundaries of what AI/ML can achieve.
 
-Build innovative tools that democratize technology and deliver measurable impact.
+### Build Innovative Tools to Democratize Technology
+Envision creating tools that make technology accessible and impactful for a diverse range of users:
+- **Democratizing Technology**: Focus on reducing barriers to entry by developing intuitive, user-friendly tools powered by AI/ML, ensuring inclusivity for users of all backgrounds.
+- **Delivering Measurable Impact**: Strive to build solutions that address real-world challenges, with measurable outcomes such as improved productivity, accessibility, and quality of life.
+- **Driving Innovation**: Embrace a mindset of continuous learning and experimentation, leveraging cutting-edge research and development to create groundbreaking tools.

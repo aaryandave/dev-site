@@ -1,48 +1,43 @@
-Academic Background
+## Academic Background
+Aaryan is a final-year computer science student at Purdue University, expected to graduate in Spring 2025. His academic journey reflects a strong dedication to mastering technical concepts and pursuing innovation. Aaryan has consistently demonstrated excellence in a wide range of challenging coursework, building a solid foundation in both theoretical knowledge and practical applications.
+College:
+### Purdue University
+**Bachelor of Science in Computer Science (Machine Intelligence), GPA: 3.9**  
+**West Lafayette, IN**  
+**Aug. 2022 – May 2025**
+### Relevant Coursework
+- **Introduction to Artificial Intelligence (Python):** Developed expertise in modern AI algorithms, neural networks, and practical applications, focusing on how AI systems learn and adapt.
+- **Web Information Search and Management (Python):** Explored web-based data retrieval, search engine mechanics, and content analysis for efficient information processing.
+- **Analysis of Algorithms:** Mastered the design, analysis, and optimization of algorithms, including their computational complexity and real-world applications.
+- **Probability and Statistics:** Gained a deep understanding of probabilistic models, statistical inference, and their role in machine learning.
+- **Data Structures and Algorithms (C++):** Built a foundation for solving complex computational problems efficiently through data structure optimization.
+- **Computer Architecture (Assembly, C):** Studied low-level programming, system architecture, and the inner workings of modern processors.
+- **Programming in C (C):** Strengthened problem-solving skills by tackling real-world programming challenges in a low-level language.
+- **Discrete Mathematics:** Acquired theoretical tools for logical reasoning, set theory, graph theory, and combinatorics, essential for computer science.
+- **Object-Oriented Programming (Java):** Applied principles of OOP to create modular, scalable, and reusable code.
+- **Linear Algebra and Calculus 3:** Gained mathematical insights essential for understanding machine learning models and computational frameworks.
+### Passion for AI
+Aaryan's passion for artificial intelligence was ignited when he discovered ChatGPT in December 2022. This transformative experience inspired him to delve into generative AI research, exploring its potential to revolutionize workflows and redefine productivity. He actively participates in tech communities, engages with the latest advancements in AI, and dedicates time to independent research, demonstrating his commitment to staying at the forefront of technological innovation.
 
-Aaryan is a third-year computer science student at Purdue University, set to graduate in Spring 2025. His academic journey is marked by a strong dedication to learning and mastery of technical concepts. At Purdue, Aaryan has excelled in challenging coursework such as:
+High School:
+### Thomas Jefferson High School for Science and Technology
+**Advanced Studies Diploma, GPA: 4.4**  
+**Alexandria, VA**  
+**Aug. 2018 – Jun. 2022**
+Recognized as the top public high school in the United States during Aaryan’s attendance, Thomas Jefferson High School provided an academically rigorous environment where he honed his analytical and problem-solving abilities. Aaryan excelled in advanced STEM coursework and extracurricular projects, showcasing his capability to apply theoretical knowledge to practical challenges.
+### Relevant Coursework
+- **Automation Robotics Research:** Explored automation technologies, robotics programming, and mechanical systems design.
+- **Artificial Intelligence 1 and 2:** Introduced to the principles of AI, including supervised learning, unsupervised learning, and reinforcement learning.
+- **Machine Learning 1 and 2:** Developed a comprehensive understanding of ML techniques, from regression models to neural networks.
+- **AP Computer Science:** Established a foundation in Java programming, data structures, and problem-solving strategies.
+- **AP Physics C:** Gained deep insights into mechanics and electromagnetism, integrating physics principles into engineering solutions.
+- **Calculus 3 and Linear Algebra:** Advanced mathematical coursework that prepared him for computational problem-solving and machine learning applications.
+### Senior Research Project: Autonomous Boat
+Aaryan's capstone achievement at Thomas Jefferson High School was leading a team to develop an autonomous boat from scratch. This multidisciplinary project highlighted his ability to innovate and collaborate in a high-pressure environment. His contributions spanned multiple domains:
+- **Mechanical Design:** Engineered the structural components of the boat, ensuring durability and efficiency.
+- **Electrical Wiring:** Designed and implemented the electrical systems required for functionality and power management.
+- **Computer Vision Algorithms:** Created robust algorithms for object detection and navigation, enabling the boat to autonomously identify and avoid obstacles.
+This project underscored Aaryan’s aptitude for integrating hardware and software engineering, solving complex technical challenges, and delivering impactful results. It also demonstrated his ability to work collaboratively and lead initiatives with tangible outcomes.
 
-Artificial Intelligence and Machine Learning: Gaining expertise in cutting-edge algorithms, neural networks, and practical AI applications.
-
-Software Engineering: Developing robust software solutions through principles of clean code, agile methodologies, and scalable design.
-
-Data Structures and Algorithms: Building a foundation for efficient and optimized programming.
-
-Beyond his formal education, Aaryan’s passion for AI was sparked by his discovery of ChatGPT in December 2022. This experience inspired him to explore generative AI research and its potential to revolutionize workflows. He actively participates in tech communities and stays updated on the latest advancements, proving his commitment to continuous learning.
-
-Prior to Purdue, Aaryan an advanced diploma at Thomas Jefferson High School for Science and Technology (the number one public high school in the United States at the time), where he honed his analytical and problem-solving skills. His academic achievements and extracurricular involvement demonstrate a well-rounded approach to education, blending theoretical knowledge with practical applications. In his senior research project, Aaryan worked with a team to develop an autonomous boat from scratch. He was involved in all aspects of the boats engineering. He worked on designing the mechanical components of the boat, wiring the electfical components, and desiging the computer vision algorithms for object detection and navigation. This project was a testament to his ability to collaborate effectively, innovate under pressure, and deliver results in a fast-paced environment.
-
-Education
-Purdue University Bachelor of Science in Computer Science (Machine Intelligence), GPA: 3.9
-Aug. 2022 – May. 2025
-West Lafayette, IN
-Relevant Coursework:
-• Introduction To Artificial
-Intelligence (Python)
-• Web Info Search And
-Management (Python)
-Experience
-• Analysis Of Algorithms
-• Probability
-• Data Structures and
-Algorithms (C++)
-• Computer Architecture
-(Assembly, C)
-• Programming in C (C)
-• Discrete Mathematics
-• OOP (Java)
-• Linear Algebra
-• Calculus 3
-
-Thomas Jefferson High School for Science and Technology Advanced Studies Diploma, GPA: 4.4
-Aug. 2018 – Jun. 2022
-Alexandria, VA
-Relevant Coursework:
-• Automation Robotics
-Research
-• Calculus 3
-• AP Computer Science
-• AP Physics C
-• Artificial Intelligence 1 and 2
-• Machine Learning 1 and 2
-• Linear Algebra
+### Summary
+Aaryan’s academic journey is defined by a blend of theoretical rigor, practical application, and a passion for continuous learning. From developing innovative AI algorithms to engineering autonomous systems, his experiences reflect a commitment to pushing boundaries and excelling in the rapidly evolving field of computer science.

@@ -73,7 +73,7 @@ export default function Home() {
       </div>
 
       {/* Chat Section */}
-      <div className="w-full max-w-lg mx-auto mt-8 animate-fade-in delay-1000">
+      <div className="w-full max-w-lg mx-auto mt-8">
         {messages.length > 0 && (
         <div className="h-64 overflow-y-auto border border-zinc-700 rounded-2xl p-2 bg-transparent">
           {messages.map((msg, i) => (
@@ -81,19 +81,22 @@ export default function Home() {
               key={i}
               className={`mb-4 ${msg.role === "user" ? "text-right" : "text-left"}`}
             >
-              <p
-                className={`text-sm ${
-                  msg.role === "user" ? "text-zinc-500" : "text-zinc-100"
-                }`}
-              >
-                {msg.content}
-              </p>
+              {msg.content.split("\n").map((line, index) => (
+                <p
+                  key={index}
+                  className={`text-sm ${
+                    msg.role === "user" ? "text-zinc-500" : "text-zinc-100"
+                  }`}
+                >
+                  {line}
+                </p>
+              ))}
             </div>
           ))}
           {loading && <p className="text-sm text-zinc-500 animate-pulse">Thinking... because he's just so interesting...</p>}
         </div>
         )}
-        <div className="flex mt-4">
+        <div className="flex mt-4 animate-fade-in delay-1000">
           <input
             type="text"
             className="flex-1 p-2 rounded-l-2xl border border-zinc-700 bg-transparent text-zinc-500 focus:outline-none"

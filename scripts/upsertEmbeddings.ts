@@ -1,53 +1,34 @@
-// scripts/upsertEmbeddings.ts
-import fs from 'fs';
-import path from 'path';
-import OpenAI from 'openai';
-import pinecone from '../util/pineconeClient';
+import fs from "fs";
+import path from "path";
+import OpenAI from "openai";
+import pinecone from "../util/pineconeClient";
 
-// Initialize OpenAI client
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY!,
-});
+const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY! });
+const directoryPath = path.join(process.cwd(), "content/documents");
+const logFilePath = path.join(process.cwd(), "embedding_log.txt");
 
-// Directory containing your text files
-const directoryPath = path.join(process.cwd(), 'content/documents');
-
-// Function to read text files from the directory
-const readTextFiles = async () => {
-  const fileNames = fs.readdirSync(directoryPath);
-  const documents = fileNames.map((fileName) => {
-    const filePath = path.join(directoryPath, fileName);
-    const content = fs.readFileSync(filePath, 'utf-8');
-    return { fileName, content };
+// Read and parse text files into sections
+const parseTextFile = (filePath: string) => {
+  const content = fs.readFileSync(filePath, "utf-8");
+  const sections = content.split(/^## /gm).filter((section) => section.trim()); // Split by `##` headers
+  return sections.map((section) => {
+    const [title, ...body] = section.split("\n");
+    return { title: title.trim(), content: body.join("\n").trim() };
   });
-  return documents;
 };
 
-// Function to split text into chunks
-const splitTextIntoChunks = (text: string, chunkSize = 1000) => {
-  const chunks = [];
-  for (let i = 0; i < text.length; i += chunkSize) {
-    chunks.push(text.slice(i, i + chunkSize));
-  }
-  return chunks;
-};
-
-// Function to generate embeddings
+// Generate embeddings for text
 const generateEmbedding = async (text: string) => {
   const response = await openai.embeddings.create({
-    model: 'text-embedding-3-small',
+    model: "text-embedding-ada-002",
     input: text,
   });
   return response.data[0].embedding;
 };
 
-// Function to upsert embeddings into Pinecone
-interface RecordMetadata {
-  [key: string]: any;
-}
-
-const upsertEmbedding = async (id: string, vector: number[], metadata: RecordMetadata) => {
-  const index = pinecone.Index('dev-site-rag');
+// Upsert embedding into Pinecone
+const upsertEmbedding = async (id: string, vector: number[], metadata: Record<string, any>) => {
+  const index = pinecone.Index("dev-site-rag");
   await index.upsert([
     {
       id,
@@ -57,26 +38,45 @@ const upsertEmbedding = async (id: string, vector: number[], metadata: RecordMet
   ]);
 };
 
-// Main function to process and upload documents
+// Append section details to log file
+const appendToLogFile = (fileName: string, title: string, content: string) => {
+  const logEntry = `File: ${fileName}\nSection: ${title}\nContent:\n${content}\n\n`;
+  fs.appendFileSync(logFilePath, logEntry);
+};
+
+// Process and upload documents to Pinecone
 const processAndUploadDocuments = async () => {
   try {
-    const documents = await readTextFiles();
+    const fileNames = fs.readdirSync(directoryPath);
 
-    for (const { fileName, content } of documents) {
-      const chunks = splitTextIntoChunks(content);
+    // Clear the log file before appending new entries
+    fs.writeFileSync(logFilePath, ""); // Clear the log file at the start
 
-      for (let i = 0; i < chunks.length; i++) {
-        const chunk = chunks[i];
-        const embedding = await generateEmbedding(chunk);
+    for (const fileName of fileNames) {
+      const filePath = path.join(directoryPath, fileName);
+      const sections = parseTextFile(filePath);
+
+      for (let i = 0; i < sections.length; i++) {
+        const { title, content } = sections[i];
+
+        console.log(`Processing section: "${title}" from file: "${fileName}"`);
+        appendToLogFile(fileName, title, content); // Write to log file
+
+        const embedding = await generateEmbedding(content);
         const id = `${fileName}-${i}`;
-        const metadata = { fileName, chunkIndex: i , content: chunk};
+        const metadata = {
+          fileName,
+          section: title,
+          content,
+        };
 
         await upsertEmbedding(id, embedding, metadata);
+        console.log(`Successfully upserted: "${title}"`);
       }
     }
-    console.log('Documents processed and uploaded successfully.');
+    console.log("All documents processed, logged, and uploaded successfully.");
   } catch (error) {
-    console.error('Error processing documents:', error);
+    console.error("Error processing documents:", error);
   }
 };
 
