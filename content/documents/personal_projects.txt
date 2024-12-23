@@ -1,4 +1,6 @@
-## Personal Project: Aaryan's Dev Site
+## Personal Projects
+
+### Personal Project: Aaryan's Dev Site
 A dynamic digital portfolio that encapsulates Aaryan's professional journey, achievements, and technical expertise.
 ### Key Features
 - **Project Showcase**: Presents a concise yet comprehensive summary of Aaryan's career milestones, organized in an intuitive UI that makes navigation seamless.
@@ -7,7 +9,7 @@ A dynamic digital portfolio that encapsulates Aaryan's professional journey, ach
 ### Purpose
 Serves as a central hub to highlight Aaryan's work, skills, and accomplishments in a visually appealing and accessible format.
 
-## Personal Project: Virtual AI Scientist
+### Personal Project: Virtual AI Scientist
 A research initiative focused on advancing multimodal retrieval-augmented generation (RAG) techniques for document visual question answering (VQA).
 ### Developed At
 eLab, Purdue University.
@@ -20,7 +22,7 @@ Facilitates accessibility to complex scientific information, making research ins
 ### Collaborative Effort
 Involves contributions from researchers at eLab, focusing on cutting-edge AI applications in document understanding.
 
-## Personal Project: Buoy Detection Algorithm
+### Personal Project: Buoy Detection Algorithm
 Developed for autonomous maritime systems as part of Machine Learning 2 coursework at Thomas Jefferson High School for Science and Technology (TJHSST).
 ### Technical Features
 - **Dataset Compilation**: A diverse collection of buoy images under varying environmental conditions, including light, weather, and water states.
@@ -33,7 +35,7 @@ Developed for autonomous maritime systems as part of Machine Learning 2 coursewo
 ### Outcome
 Demonstrated significant improvements in detection accuracy, contributing to safer and more efficient autonomous watercraft operations.
 
-## Personal Project: AI Game Bots
+### Personal Project: AI Game Bots
 Automating gameplay for online word games like Wordle and Spelling Bee due to personal interest and competitive challenges.
 ### Development Process
 - **Language Models**: Implemented Python scripts using heuristic and probabilistic methods to optimize gameplay strategies.
@@ -43,7 +45,7 @@ Enhanced understanding of strategic automation while showcasing practical applic
 ### Anecdotal Insight
 Highlighted the potential of automation in casual gaming, albeit with humorous consequences such as reduced opportunities for human competition.
 
-## Personal Project: Notion Productivity Suite
+### Personal Project: Notion Productivity Suite
 Addressed the limitations of traditional task management tools that often added friction to productivity workflows.
 ### Solution
 Designed a CLI tool integrated with Notion, leveraging AI to streamline task management and organizational tasks.
@@ -54,7 +56,7 @@ Designed a CLI tool integrated with Notion, leveraging AI to streamline task man
 ### Benefits
 Transforms Notion into a personalized productivity powerhouse, empowering users to achieve more with minimal cognitive load.
 
-## Personal Project: SSBU ELO Tracker
+### Personal Project: SSBU ELO Tracker
 A data-driven solution to track and rank Super Smash Bros Ultimate (SSBU) match performance among friends.
 ### Features
 - **Live Leaderboard**: Automatically updates player rankings based on match outcomes.
@@ -66,7 +68,7 @@ Brings objectivity to friendly competitions, fostering accountability and adding
 ### Fun Factor
 Eliminates disputes over performance metrics while creating a competitive yet enjoyable environment for game nights.
 
-## Personal Project: Tic-Tac-Toe AI
+### Personal Project: Tic-Tac-Toe AI
 Explores and demonstrates various AI strategies for decision-making in a simple yet strategic game.
 ### Strategies Implemented
 - **Random AI**: Simulates unpredictable gameplay by making moves at random.
@@ -76,7 +78,7 @@ Explores and demonstrates various AI strategies for decision-making in a simple 
 ### Educational Value
 Illustrates AI decision-making processes and showcases the evolution of strategy optimization in games.
 
-## Personal Project: LTC Stock Prediction
+### Personal Project: LTC Stock Prediction
 Investigates the potential of liquid neural networks for time series forecasting, specifically stock price prediction.
 ### Methodology
 - **Model Implementation**: Built a prediction model using liquid neural networks known for their adaptive internal structure.
@@ -86,5 +88,5 @@ Investigates the potential of liquid neural networks for time series forecasting
 ### Significance
 Highlights the advantages of liquid neural networks in handling complex, dynamic datasets, offering insights into their applicability in financial forecasting.
 
-## Personal Project: Wave
+### Personal Project: Wave
 A revolutionary human-computer interaction (HCI) project that explores gesture recognition and motion tracking for intuitive user interfaces. This project is currently under development and aims to redefine the way users interact with digital devices. Stay tuned for updates!

@@ -1,4 +1,6 @@
-## Professional Position: Software Engineering Intern at Marriott International (June 2024 – Present)
+## Professional Experience
+
+### Professional Position: Software Engineering Intern at Marriott International (June 2024 – Present)
 At Marriott International, Aaryan has played a pivotal role in driving innovation and improving operational efficiency across development teams, leveraging his technical expertise to create scalable and impactful solutions.
 ### Key Contributions (Professional Projects)
 - **Accelerated Deployment Efficiency**: Developed and deployed Python-based application templates that reduced production deployment times by 40%, significantly expediting time-to-market for new products.
@@ -7,7 +9,7 @@ At Marriott International, Aaryan has played a pivotal role in driving innovatio
 ### Broader Impact
 Aaryan’s work has directly contributed to Marriott’s ability to rapidly innovate and deploy new digital solutions, solidifying its competitive edge in the hospitality industry.
 
-## Professional Position: Undergraduate Research Assistant at Purdue University (August 2023 – Present)
+### Professional Position: Undergraduate Research Assistant at Purdue University (August 2023 – Present)
 Aaryan has been at the forefront of advancing AI technologies to enhance accessibility and precision in scientific research. His role involves pioneering techniques that bridge theoretical innovation with practical applications.
 ### Research Contributions (Professional Projects)
 - **Multi-Modal Large Language Model (LLM)**: Designed and implemented an advanced LLM to create a chat-based virtual research scientist, significantly enhancing accessibility to scientific data and making it more user-friendly for researchers across disciplines.
@@ -16,7 +18,7 @@ Aaryan has been at the forefront of advancing AI technologies to enhance accessi
 ### Research Impact
 Aaryan’s contributions have pushed the boundaries of AI in scientific research, making complex data more accessible and actionable for researchers worldwide.
 
-## Professional Position: Software Engineer at Johns Hopkins University Applied Physics Lab (August 2023 – February 2024)
+### Professional Position: Software Engineer at Johns Hopkins University Applied Physics Lab (August 2023 – February 2024)
 During his tenure at JHU/APL, Aaryan showcased his ability to bridge cutting-edge AI solutions with practical applications, addressing real-world challenges in data analysis and system optimization.
 ### Major Achievements (Professional Projects)
 - **Automated Web Scraping**: Developed automated web scraping tools for news article databases, increasing real-time data collection efficiency by 185%. These tools streamlined data ingestion and reduced manual effort.
@@ -26,7 +28,7 @@ During his tenure at JHU/APL, Aaryan showcased his ability to bridge cutting-edg
 ### Practical Applications
 Aaryan’s work at JHU/APL not only advanced AI-driven solutions but also emphasized the importance of client-centric development, resulting in tools that were both innovative and directly applicable to user needs.
 
-## Professional Position: Software Engineering Intern at Johns Hopkins University Applied Physics Lab (June 2023 – August 2023)
+### Professional Position: Software Engineering Intern at Johns Hopkins University Applied Physics Lab (June 2023 – August 2023)
 During this internship, Aaryan demonstrated his expertise in machine learning, real-time systems, and scalable data solutions, contributing to cutting-edge projects in data analysis and AI.
 ### Key Contributions (Professional Projects)
 - **Object Detection and Classification**: Designed and implemented an object detection and classification system using Facebook’s SAM model, creating efficient pipelines for real-time image processing and classification.
