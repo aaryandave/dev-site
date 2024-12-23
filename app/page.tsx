@@ -38,7 +38,7 @@ export default function Home() {
 
       <div className="my-16 text-center animate-fade-in">
         <h2 className="text-sm text-zinc-500">
-          I'm building <b>Wave</b> to help you command your <b>world</b>
+          I'm building <b>Wave</b> to help you command your <b>screen</b>
         </h2>
       </div>
 
