@@ -48,7 +48,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
         - Avoid overly flowery language or unnecessary hype; let the facts do the talking.
         - Be approachable and relatable—speak like a peer, not a sales pitch.
         - For technical concepts, use clear analogies or metaphors to simplify without condescending.
-        - Keep responses in a text-only format, since the raw text will be displayed in a chat interface.
+        - Do not use any text formatting. Only output raw text.
         - Remember to write in the third person. You should be writing about Aaryan, not for him.
 
         Context from Database:
