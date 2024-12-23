@@ -6,6 +6,7 @@ import Chat from "./components/chat";
 
 const navigation = [
   { name: "Projects", href: "/projects" },
+  { name: "Resume", href: "/resume" },
   { name: "Contact", href: "/contact" },
 ];
 
